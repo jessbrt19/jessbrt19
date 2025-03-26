@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc2YmV1dm9tZ3g1Y29lODF3MGE3dHAwYTI4c212MnltcGpjdzVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif"  />
+
 
 ###
 
