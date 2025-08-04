@@ -7,10 +7,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jessbrt19&show_icons=true&count_private=true&hide_border=true&title_color=f&icon_color=a02be3&text_color=a02be3&bg_color=0d1117" alt="Jéssica Brito github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessbrt19&layout=compact&hide_border=true&title_color=a02be3&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<div align="center">  
-<a href="https://www.instagram.com/jessie.brt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
   
 ### Studying in this moment:
 ![Phyton](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
